@@ -4,8 +4,9 @@
 <b>Answer:</b> Here, A monolithic ekyc system (NID validation with real time image processing) has to be migrated into the cloud. The solution has a global user base mainly from Southeast Asia and North America (can be deployed in multiple geographical locations or CDN). I have create a Terraform script to infrastructure deploy on AWS platform. Please visit the below mentioned GIT:
 <br/>
 ###  1. Micro service definition for the application.
-<b>Monolithic Architecture:</b> Monolithic architecture is like a big container in which all the software components of an application are clubbed inside a single package.
 
+<b>Monolithic Architecture:</b> Monolithic architecture is like a big container in which all the software components of an application are clubbed inside a single package.
+<br/>
 <b>Microservices Architecture: </b> Microservices Architecture is an architectural development style which builds an application as a collection of small autonomous services developed for a business domain.
 
 *Main differences between Microservices and Monolithic Architecture has been below shown:*
