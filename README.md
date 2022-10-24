@@ -2,11 +2,11 @@
 ------------
 <h1 align="center">Task 1</h1>
 <b>Answer:</b> Here, A monolithic ekyc system (NID validation with real time image processing) has to be migrated into the cloud. The solution has a global user base mainly from Southeast Asia and North America (can be deployed in multiple geographical locations or CDN). I have create a Terraform script to infrastructure deploy on AWS platform. Please visit the below mentioned GIT:
-<br/>
+</b>
 ###   1. Micro service definition for the application.
 
 <b>Monolithic Architecture:</b> Monolithic architecture is like a big container in which all the software components of an application are clubbed inside a single package.
-<br/>
+</b>
 <b>Microservices Architecture: </b> Microservices Architecture is an architectural development style which builds an application as a collection of small autonomous services developed for a business domain.
 
 *Main differences between Microservices and Monolithic Architecture has been below shown:*
@@ -71,4 +71,4 @@ These includes are:
 <b>d) Safely identify inefficiencies:  </b>The right-sizing efforts will have a direct impact on our overall cloud expenditure. An automated right-sizing process should be part of our continuous management process and could considerably reduce cloud cost.
 
 
-<b>f) Allocate cost based on activity: </b>For public cloud resources this is straight forward. Charging for exactly what we are using is a fundamental mechanism of the framework, and not relaying that cost to the business units means missing a great opportunity to increase cost awareness.
+<b>e) Allocate cost based on activity: </b>For public cloud resources this is straight forward. Charging for exactly what we are using is a fundamental mechanism of the framework, and not relaying that cost to the business units means missing a great opportunity to increase cost awareness.
