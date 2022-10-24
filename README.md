@@ -18,11 +18,11 @@ Here, A monolithic ekyc system (NID validation with real time image processing) 
 *In the mentioned application, I think, It’s best way to be develop a monolithic tightly coupled architecture.*
 
 ###   2. What type of database solution would be feasible for the application.
-<b>Answer:</b>At a glance, We are usually use the NoSQL database for data storing & management and AWS S3 using for object storage to develop this applications.
+<b>Answer:</b> At a glance, We are usually use the NoSQL database for data storing & management and AWS S3 using for object storage to develop this applications.
 
 ###   3. What if the solution is a hybrid architecture where some country enforces that their user data has to be stored in a local database.
 
-<b>Answer:</b>To protect against a loss of connectivity in case our customer gateway device becomes unavailable, we can set up a second Site-to-Site VPN connection to our VPC and virtual private gateway by using a second customer gateway device. By using redundant Site-to-Site VPN connections and customer gateway devices, we can perform maintenance on one of our devices while traffic continues to flow over the second customer gateway's Site-to-Site VPN connection.
+<b>Answer:</b> To protect against a loss of connectivity in case our customer gateway device becomes unavailable, we can set up a second Site-to-Site VPN connection to our VPC and virtual private gateway by using a second customer gateway device. By using redundant Site-to-Site VPN connections and customer gateway devices, we can perform maintenance on one of our devices while traffic continues to flow over the second customer gateway's Site-to-Site VPN connection.
 The following diagram shows the two tunnels of each Site-to-Site VPN connection and two customer gateways.
 
 <p align="center"><img src="https://raw.githubusercontent.com/Lipton2777/tf-aws-eKYC-Lipton-task-1/main/Flow-chart.png" /></p>
@@ -49,7 +49,7 @@ Fail-over solutions, on the other hand are used during the most extreme scenario
 
 These includes are:
 
-<b>a) </b>Network firewalls built into Amazon VPC let you create private networks and control access to your instances or applications. Customers can control encryption in transit with TLS across AWS services.
+<b>a) </b> Network firewalls built into Amazon VPC let you create private networks and control access to your instances or applications. Customers can control encryption in transit with TLS across AWS services.
 
 <b>b) </b> Connectivity options that enable private, or dedicated, connections from your office or on-premises environment.
 
