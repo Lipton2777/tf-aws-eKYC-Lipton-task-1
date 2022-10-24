@@ -2,6 +2,7 @@
 ------------
 <h1 align="center">Task 1</h1>
 <b>Answer:</b> Here, A monolithic ekyc system (NID validation with real time image processing) has to be migrated into the cloud. The solution has a global user base mainly from Southeast Asia and North America (can be deployed in multiple geographical locations or CDN). I have create a Terraform script to infrastructure deploy on AWS platform. Please visit the below mentioned GIT:
+<br/>
 ###  1. Micro service definition for the application.
 <b>Monolithic Architecture:</b> Monolithic architecture is like a big container in which all the software components of an application are clubbed inside a single package.
 
